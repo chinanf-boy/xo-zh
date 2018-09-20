@@ -46,7 +46,7 @@
 
 <h1 align="center">
 	<br>
-	<img width="400" src="https://raw.githubusercontent.com/xojs/xo/master/media/logo.svg" alt="xo">
+	<img width="400" src="https://github.com/xojs/xo/raw/master/media/logo.svg?sanitize=true" alt="xo">
 	<br>
 	<br>
 	<br>
@@ -529,7 +529,7 @@ xo基于ESLint.这个项目最初只是一个可共享的ESLint配置,但它很�
 ## 有关
 
 -   [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn)- 各种棒棒的ESLint规则 *(捆绑在xo中)*
--   [xo-汇总](https://github.com/LitoMore/xo-summary)- 显示`xo`样式的输出错误列表,按计数排序
+-   [xo-summary](https://github.com/LitoMore/xo-summary)- 显示`xo`样式的输出错误列表,按计数排序
 
 ## 徽章
 
